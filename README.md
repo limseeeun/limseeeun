@@ -25,4 +25,4 @@
 ## Contact
 
 - Blog: 
-- Email: 
+- Email: seeunlim29@gmail.com
