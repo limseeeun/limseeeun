@@ -4,12 +4,25 @@
 
 ## Main Projects
 
+
 ### 🐥 DuckTack
-- 개발 기간: 2026.01 ~ 진행 중
-- 담당 역할: 팀장, 백엔드 및 관리자·제휴업체 웹 개발
-- 주요 구현: AI 기반 주거 하자 진단, 진단 결과 및 위험도 관리, 전문가 예약·수리 상태 관리, 사용자·업체 승인, 리뷰 관리, PDF 진단 리포트 생성
-- 기술 스택: React Native, React, Spring Boot, Flask, PostgreSQL, YOLOv8, SAM, Docker
-- [GitHub Repository](https://github.com/DDuckTTack/DuckTack)
+AI 기반 주거 하자 진단 및 전문가 연계 서비스
+
+- **개발 기간:** 2026.01 ~ 진행 중
+- **담당 역할:** 팀장, 백엔드 및 관리자·제휴업체 웹 개발
+- **주요 구현:** AI 하자 진단, 전문가 예약, 업체 승인, 리뷰 관리, PDF 진단 리포트
+- **기술 스택:** Spring Boot, React, React Native, Flask, PostgreSQL, Docker
+- **Repository:** [DDuckTTack/DuckTack](https://github.com/DDuckTTack/DuckTack)
+
+---
+
+### 📈 Auto Trading Platform
+자동매매 및 투자 전략 관리 플랫폼
+
+- **담당 역할:** 여기에 본인이 맡은 업무 작성
+- **주요 구현:** 여기에 구현한 기능 작성
+- **기술 스택:** 여기에 사용 기술 작성
+- **Repository:** [trading-platform-team/auto-trading-platform](https://github.com/trading-platform-team/auto-trading-platform)
 
 ## Tech Stack
 
